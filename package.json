@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@abacritt/angularx-social-login": "^2.2.0",
     "@angular/animations": "^16.2.0",
     "@angular/cdk": "^16.2.6",
     "@angular/cli": "~16.2.3",
@@ -26,8 +27,6 @@
     "@zxing/browser": "^0.1.4",
     "@zxing/library": "^0.20.0",
     "@zxing/ngx-scanner": "^3.5.0",
-    "angularx-social-login": "^4.1.1",
-
     "express": "^4.17.3",
     "path": "^0.12.7",
     "rxjs": "~7.5.0",
