@@ -26,7 +26,8 @@
     "@zxing/browser": "^0.1.4",
     "@zxing/library": "^0.20.0",
     "@zxing/ngx-scanner": "^3.5.0",
-    "angularx-social-login": "^4.1.0",
+    "angularx-social-login": "^4.1.1",
+
     "express": "^4.17.3",
     "path": "^0.12.7",
     "rxjs": "~7.5.0",
